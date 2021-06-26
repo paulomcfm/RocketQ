@@ -1,7 +1,7 @@
 {
   "name": "RocketQ",
   "version": "1.0.0",
-  "description": "Projeto Discover",
+  "description": "Projeto Discover RocketQ",
   "main": "src/server.js",
   "scripts": {
     "start": "nodemon .",
